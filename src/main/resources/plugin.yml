@@ -1,0 +1,12 @@
+name: CraftNBrewMS
+version: ${build.version}
+main: idkyoucanfixthisshitlater
+softdepend: [ Citizens, Vault ]
+authors: [ fuckyou ]
+api-version: 1.13
+description: Custom plugin made for Zulkiiz#8980, redistribution is not allowed. Adds custom brewingstand recipes.
+commands:
+  cnbversion:
+    usage: /<command>
+    description: See the version of the plugin.
+    permission: op
